@@ -10,7 +10,7 @@ In Content browser Firstperson/Blueprint/Hospital and Hosiptal1
 
 Both the maps are in the same folder.
 
-#Bulid
+# Bulid
 Platform/Package content/Windows or Android 
 Note : Android Visual Studio is steup for the Android build
 
